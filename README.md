@@ -13,3 +13,5 @@ Thus to come up with a cost effective , portable solution with a wide range of i
  With more than 70% or schools through India having no form computer architecture let alone a consistent Internet connection, Dhron Pi would provide the means to deliver trusted set of information to students as well as teachers. 
 Dhron-Pi serves as an access point; data hub and server to its clients thus single headily provide text, images and videos to the user through either a local host directly through the users browser or with the aid of an interactive Graphical User Interface on board the Dhron-Pi as well as associated PC nodes. 
 
+
+
