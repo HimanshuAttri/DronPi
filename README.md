@@ -15,14 +15,20 @@ Dhron-Pi serves as an access point; data hub and server to its clients thus sing
 
 ## Deployment  
 
-###  Aa  
+### Ted Video Running 
 
 ![13582241_292323621102658_271636518_o 1](https://user-images.githubusercontent.com/12981490/31561122-8469b1de-b074-11e7-9ccb-bc46425f8cf8.jpg)
 
-###  B
+### NCERT Educational Books
 
 ![13607833_292645224403831_2047302083_n](https://user-images.githubusercontent.com/12981490/31561125-84a56422-b074-11e7-999f-4af64baf7dfa.jpg)
+
+### Web UI  
+
 ![13621513_292303984437955_1537591051_o 1](https://user-images.githubusercontent.com/12981490/31561127-84df1974-b074-11e7-9683-3eff261ae2b5.png)
+
+### COmplete Wikipedia  
+
 ![13621675_292323584435995_1324478912_o 1](https://user-images.githubusercontent.com/12981490/31561131-851a7726-b074-11e7-8c4d-e00f5d76fc19.jpg)
 
 
