@@ -25,7 +25,7 @@ Dhron-Pi serves as an access point; data hub and server to its clients thus sing
 
 ### Web UI  
 
-![13621513_292303984437955_1537591051_o 1](https://user-images.githubusercontent.com/12981490/31561127-84df1974-b074-11e7-9683-3eff261ae2b5.png)
+![r2](https://user-images.githubusercontent.com/12981490/31561556-e989128e-b075-11e7-9589-5a219ab2d15d.png)
 
 ### COmplete Wikipedia  
 
